@@ -1,0 +1,6 @@
+env/
+token.json
+service-account-private-key.json
+
+gcalAPI/__pycache__/
+porouswayGcalAPI/__pycache__/
